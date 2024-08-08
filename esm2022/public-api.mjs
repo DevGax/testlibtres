@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of test
+ */
+export * from './lib/test.service';
+export * from './lib/test.component';
+export * from './lib/components/base/base.component';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL3Rlc3Qvc3JjL3B1YmxpYy1hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxjQUFjLG9CQUFvQixDQUFDO0FBQ25DLGNBQWMsc0JBQXNCLENBQUM7QUFDckMsY0FBYyxzQ0FBc0MsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXHJcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiB0ZXN0XHJcbiAqL1xyXG5cclxuZXhwb3J0ICogZnJvbSAnLi9saWIvdGVzdC5zZXJ2aWNlJztcclxuZXhwb3J0ICogZnJvbSAnLi9saWIvdGVzdC5jb21wb25lbnQnO1xyXG5leHBvcnQgKiBmcm9tICcuL2xpYi9jb21wb25lbnRzL2Jhc2UvYmFzZS5jb21wb25lbnQnO1xyXG4iXX0=
